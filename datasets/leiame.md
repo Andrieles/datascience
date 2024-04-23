@@ -1,3 +1,3 @@
 # Datasets list:
 
-- https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
+datasets\apple_quality.csv - https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality
